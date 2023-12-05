@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/gimel-project/static/css/main.40b2d8fc.css",
+    "main.js": "/gimel-project/static/js/main.2c111528.js",
+    "static/media/Bookshop.gif": "/gimel-project/static/media/Bookshop.4e55c974dd9bc7189717.gif",
+    "static/media/load.gif": "/gimel-project/static/media/load.ce7290f83ff4cd1fd081.gif",
+    "static/media/fa-solid-900.svg": "/gimel-project/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
+    "static/media/fa-brands-400.svg": "/gimel-project/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
+    "static/media/biography.jpg": "/gimel-project/static/media/biography.f9e6220977cb116db3f6.jpg",
+    "static/media/fiction.jpg": "/gimel-project/static/media/fiction.a3c9284924a212561034.jpg",
+    "static/media/books.png": "/gimel-project/static/media/books.f2263cf247802c2f4efe.png",
+    "static/media/fa-solid-900.eot": "/gimel-project/static/media/fa-solid-900.9bbb245e67a133f6e486.eot",
+    "static/media/fa-solid-900.ttf": "/gimel-project/static/media/fa-solid-900.be9ee23c0c6390141475.ttf",
+    "static/media/scroll.gif": "/gimel-project/static/media/scroll.c8c8de67503aa2a71a0e.gif",
+    "static/media/maxresdefault.jpg": "/gimel-project/static/media/maxresdefault.6ff7397292b8e0639c64.jpg",
+    "static/media/fa-regular-400.svg": "/gimel-project/static/media/fa-regular-400.4689f52cc96215721344.svg",
+    "static/media/fa-brands-400.eot": "/gimel-project/static/media/fa-brands-400.23f19bb08961f37aaf69.eot",
+    "static/media/fa-brands-400.ttf": "/gimel-project/static/media/fa-brands-400.527940b104eb2ea366c8.ttf",
+    "static/media/fa-solid-900.woff": "/gimel-project/static/media/fa-solid-900.eeccf4f66002c6f2ba24.woff",
+    "static/media/fa-brands-400.woff": "/gimel-project/static/media/fa-brands-400.2285773e6b4b172f07d9.woff",
+    "static/media/fa-solid-900.woff2": "/gimel-project/static/media/fa-solid-900.1551f4f60c37af51121f.woff2",
+    "static/media/fa-brands-400.woff2": "/gimel-project/static/media/fa-brands-400.d878b0a6a1144760244f.woff2",
+    "static/media/fa-regular-400.eot": "/gimel-project/static/media/fa-regular-400.77206a6bb316fa0aded5.eot",
+    "static/media/fa-regular-400.ttf": "/gimel-project/static/media/fa-regular-400.491974d108fe4002b2aa.ttf",
+    "static/media/fa-regular-400.woff": "/gimel-project/static/media/fa-regular-400.bb58e57c48a3e911f15f.woff",
+    "static/media/fa-regular-400.woff2": "/gimel-project/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
+    "index.html": "/gimel-project/index.html",
+    "static/media/arrow_left.svg": "/gimel-project/static/media/arrow_left.db6e2d88c7c35a775ce4.svg",
+    "static/media/arrow_right.svg": "/gimel-project/static/media/arrow_right.f7c6ac6d310d3b82f0a0.svg",
+    "main.40b2d8fc.css.map": "/gimel-project/static/css/main.40b2d8fc.css.map",
+    "main.2c111528.js.map": "/gimel-project/static/js/main.2c111528.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40b2d8fc.css",
+    "static/js/main.2c111528.js"
+  ]
+}
