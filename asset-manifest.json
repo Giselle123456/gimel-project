@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gimel-project/static/css/main.40b2d8fc.css",
-    "main.js": "/gimel-project/static/js/main.2c111528.js",
+    "main.js": "/gimel-project/static/js/main.f9f7085f.js",
     "static/media/Bookshop.gif": "/gimel-project/static/media/Bookshop.4e55c974dd9bc7189717.gif",
     "static/media/load.gif": "/gimel-project/static/media/load.ce7290f83ff4cd1fd081.gif",
     "static/media/fa-solid-900.svg": "/gimel-project/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
@@ -28,10 +28,10 @@
     "static/media/arrow_left.svg": "/gimel-project/static/media/arrow_left.db6e2d88c7c35a775ce4.svg",
     "static/media/arrow_right.svg": "/gimel-project/static/media/arrow_right.f7c6ac6d310d3b82f0a0.svg",
     "main.40b2d8fc.css.map": "/gimel-project/static/css/main.40b2d8fc.css.map",
-    "main.2c111528.js.map": "/gimel-project/static/js/main.2c111528.js.map"
+    "main.f9f7085f.js.map": "/gimel-project/static/js/main.f9f7085f.js.map"
   },
   "entrypoints": [
     "static/css/main.40b2d8fc.css",
-    "static/js/main.2c111528.js"
+    "static/js/main.f9f7085f.js"
   ]
 }
